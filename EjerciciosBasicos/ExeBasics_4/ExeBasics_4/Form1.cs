@@ -19,7 +19,38 @@ namespace ExeBasics_4
 
         private void button1_Click(object sender, EventArgs e)
         {
-            textBox4 = "+";
+            textBox4.Text = "+";
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            textBox4.Text = "-";
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            int un = Int32.Parse(textBox1.Text);
+            int dos = Int32.Parse(textBox2.Text);
+
+            if (textBox4.Text == "+")
+            {
+                int resulp = un + dos;
+
+                textBox3.Text = resulp.ToString();
+            } else
+            {
+                int resuln = un - dos;
+
+                textBox3.Text = resuln.ToString();
+            }
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = "0";
+            textBox2.Text = "0";
+            textBox3.Text = "0";
+            textBox4.Text = " ";
         }
     }
 }

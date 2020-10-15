@@ -1,0 +1,10 @@
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\EjerciciosBasicos\ExeBasics5\ExeBasics5\bin\Debug\ExeBasics5.exe.config
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\EjerciciosBasicos\ExeBasics5\ExeBasics5\bin\Debug\ExeBasics5.exe
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\EjerciciosBasicos\ExeBasics5\ExeBasics5\bin\Debug\ExeBasics5.pdb
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\EjerciciosBasicos\ExeBasics5\ExeBasics5\obj\Debug\ExeBasics5.csprojAssemblyReference.cache
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\EjerciciosBasicos\ExeBasics5\ExeBasics5\obj\Debug\ExeBasics5.Form1.resources
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\EjerciciosBasicos\ExeBasics5\ExeBasics5\obj\Debug\ExeBasics5.Properties.Resources.resources
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\EjerciciosBasicos\ExeBasics5\ExeBasics5\obj\Debug\ExeBasics5.csproj.GenerateResource.cache
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\EjerciciosBasicos\ExeBasics5\ExeBasics5\obj\Debug\ExeBasics5.csproj.CoreCompileInputs.cache
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\EjerciciosBasicos\ExeBasics5\ExeBasics5\obj\Debug\ExeBasics5.exe
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\EjerciciosBasicos\ExeBasics5\ExeBasics5\obj\Debug\ExeBasics5.pdb

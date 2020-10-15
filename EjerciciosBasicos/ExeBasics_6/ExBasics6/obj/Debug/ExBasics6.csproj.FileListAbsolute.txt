@@ -1,0 +1,10 @@
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\EjerciciosBasicos\ExBasics6\ExBasics6\bin\Debug\ExBasics6.exe.config
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\EjerciciosBasicos\ExBasics6\ExBasics6\bin\Debug\ExBasics6.exe
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\EjerciciosBasicos\ExBasics6\ExBasics6\bin\Debug\ExBasics6.pdb
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\EjerciciosBasicos\ExBasics6\ExBasics6\obj\Debug\ExBasics6.csprojAssemblyReference.cache
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\EjerciciosBasicos\ExBasics6\ExBasics6\obj\Debug\ExBasics6.Form1.resources
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\EjerciciosBasicos\ExBasics6\ExBasics6\obj\Debug\ExBasics6.Properties.Resources.resources
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\EjerciciosBasicos\ExBasics6\ExBasics6\obj\Debug\ExBasics6.csproj.GenerateResource.cache
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\EjerciciosBasicos\ExBasics6\ExBasics6\obj\Debug\ExBasics6.csproj.CoreCompileInputs.cache
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\EjerciciosBasicos\ExBasics6\ExBasics6\obj\Debug\ExBasics6.exe
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\EjerciciosBasicos\ExBasics6\ExBasics6\obj\Debug\ExBasics6.pdb
