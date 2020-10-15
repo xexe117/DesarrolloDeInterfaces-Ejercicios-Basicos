@@ -1,0 +1,10 @@
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\ExeBasic_3\ExeBasic_3\bin\Debug\ExeBasic_3.exe.config
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\ExeBasic_3\ExeBasic_3\bin\Debug\ExeBasic_3.exe
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\ExeBasic_3\ExeBasic_3\bin\Debug\ExeBasic_3.pdb
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\ExeBasic_3\ExeBasic_3\obj\Debug\ExeBasic_3.Form1.resources
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\ExeBasic_3\ExeBasic_3\obj\Debug\ExeBasic_3.Properties.Resources.resources
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\ExeBasic_3\ExeBasic_3\obj\Debug\ExeBasic_3.csproj.GenerateResource.cache
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\ExeBasic_3\ExeBasic_3\obj\Debug\ExeBasic_3.csproj.CoreCompileInputs.cache
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\ExeBasic_3\ExeBasic_3\obj\Debug\ExeBasic_3.exe
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\ExeBasic_3\ExeBasic_3\obj\Debug\ExeBasic_3.pdb
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\ExeBasic_3\ExeBasic_3\obj\Debug\ExeBasic_3.csprojAssemblyReference.cache
