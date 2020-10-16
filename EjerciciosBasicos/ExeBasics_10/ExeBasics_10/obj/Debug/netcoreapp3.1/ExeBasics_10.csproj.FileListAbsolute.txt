@@ -1,0 +1,15 @@
+C:\Users\xesc2\Desktop\Java\Entonrs De desenvolupament\DesarrolloDeInterfaces-Ejercicios-Basicos-WForms\EjerciciosBasicos\ExeBasics_10\ExeBasics_10\bin\Debug\netcoreapp3.1\ExeBasics_10.exe
+C:\Users\xesc2\Desktop\Java\Entonrs De desenvolupament\DesarrolloDeInterfaces-Ejercicios-Basicos-WForms\EjerciciosBasicos\ExeBasics_10\ExeBasics_10\bin\Debug\netcoreapp3.1\ExeBasics_10.deps.json
+C:\Users\xesc2\Desktop\Java\Entonrs De desenvolupament\DesarrolloDeInterfaces-Ejercicios-Basicos-WForms\EjerciciosBasicos\ExeBasics_10\ExeBasics_10\bin\Debug\netcoreapp3.1\ExeBasics_10.runtimeconfig.json
+C:\Users\xesc2\Desktop\Java\Entonrs De desenvolupament\DesarrolloDeInterfaces-Ejercicios-Basicos-WForms\EjerciciosBasicos\ExeBasics_10\ExeBasics_10\bin\Debug\netcoreapp3.1\ExeBasics_10.runtimeconfig.dev.json
+C:\Users\xesc2\Desktop\Java\Entonrs De desenvolupament\DesarrolloDeInterfaces-Ejercicios-Basicos-WForms\EjerciciosBasicos\ExeBasics_10\ExeBasics_10\bin\Debug\netcoreapp3.1\ExeBasics_10.dll
+C:\Users\xesc2\Desktop\Java\Entonrs De desenvolupament\DesarrolloDeInterfaces-Ejercicios-Basicos-WForms\EjerciciosBasicos\ExeBasics_10\ExeBasics_10\bin\Debug\netcoreapp3.1\ExeBasics_10.pdb
+C:\Users\xesc2\Desktop\Java\Entonrs De desenvolupament\DesarrolloDeInterfaces-Ejercicios-Basicos-WForms\EjerciciosBasicos\ExeBasics_10\ExeBasics_10\obj\Debug\netcoreapp3.1\ExeBasics_10.csprojAssemblyReference.cache
+C:\Users\xesc2\Desktop\Java\Entonrs De desenvolupament\DesarrolloDeInterfaces-Ejercicios-Basicos-WForms\EjerciciosBasicos\ExeBasics_10\ExeBasics_10\obj\Debug\netcoreapp3.1\ExeBasics_10.Form1.resources
+C:\Users\xesc2\Desktop\Java\Entonrs De desenvolupament\DesarrolloDeInterfaces-Ejercicios-Basicos-WForms\EjerciciosBasicos\ExeBasics_10\ExeBasics_10\obj\Debug\netcoreapp3.1\ExeBasics_10.csproj.GenerateResource.cache
+C:\Users\xesc2\Desktop\Java\Entonrs De desenvolupament\DesarrolloDeInterfaces-Ejercicios-Basicos-WForms\EjerciciosBasicos\ExeBasics_10\ExeBasics_10\obj\Debug\netcoreapp3.1\ExeBasics_10.AssemblyInfoInputs.cache
+C:\Users\xesc2\Desktop\Java\Entonrs De desenvolupament\DesarrolloDeInterfaces-Ejercicios-Basicos-WForms\EjerciciosBasicos\ExeBasics_10\ExeBasics_10\obj\Debug\netcoreapp3.1\ExeBasics_10.AssemblyInfo.cs
+C:\Users\xesc2\Desktop\Java\Entonrs De desenvolupament\DesarrolloDeInterfaces-Ejercicios-Basicos-WForms\EjerciciosBasicos\ExeBasics_10\ExeBasics_10\obj\Debug\netcoreapp3.1\ExeBasics_10.csproj.CoreCompileInputs.cache
+C:\Users\xesc2\Desktop\Java\Entonrs De desenvolupament\DesarrolloDeInterfaces-Ejercicios-Basicos-WForms\EjerciciosBasicos\ExeBasics_10\ExeBasics_10\obj\Debug\netcoreapp3.1\ExeBasics_10.dll
+C:\Users\xesc2\Desktop\Java\Entonrs De desenvolupament\DesarrolloDeInterfaces-Ejercicios-Basicos-WForms\EjerciciosBasicos\ExeBasics_10\ExeBasics_10\obj\Debug\netcoreapp3.1\ExeBasics_10.pdb
+C:\Users\xesc2\Desktop\Java\Entonrs De desenvolupament\DesarrolloDeInterfaces-Ejercicios-Basicos-WForms\EjerciciosBasicos\ExeBasics_10\ExeBasics_10\obj\Debug\netcoreapp3.1\ExeBasics_10.genruntimeconfig.cache
