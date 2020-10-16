@@ -16,7 +16,7 @@ namespace ExeBasics_2
         {
             InitializeComponent();
         }
-
+        //No le doy un nombre porque no es necesario al solo tener una check box
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
          if(checkBox1.Checked == true){

@@ -28,45 +28,45 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.PrimertextBox = new System.Windows.Forms.TextBox();
+            this.SegontextBox = new System.Windows.Forms.TextBox();
+            this.ResultattextBox = new System.Windows.Forms.TextBox();
+            this.Operacio = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
+            this.Subs = new System.Windows.Forms.Button();
+            this.Calcul = new System.Windows.Forms.Button();
+            this.Resetbutton = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // textBox1
+            // PrimertextBox
             // 
-            this.textBox1.Location = new System.Drawing.Point(113, 124);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 22);
-            this.textBox1.TabIndex = 0;
+            this.PrimertextBox.Location = new System.Drawing.Point(113, 124);
+            this.PrimertextBox.Name = "PrimertextBox";
+            this.PrimertextBox.Size = new System.Drawing.Size(100, 22);
+            this.PrimertextBox.TabIndex = 0;
             // 
-            // textBox2
+            // SegontextBox
             // 
-            this.textBox2.Location = new System.Drawing.Point(113, 184);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(100, 22);
-            this.textBox2.TabIndex = 1;
+            this.SegontextBox.Location = new System.Drawing.Point(113, 184);
+            this.SegontextBox.Name = "SegontextBox";
+            this.SegontextBox.Size = new System.Drawing.Size(100, 22);
+            this.SegontextBox.TabIndex = 1;
             // 
-            // textBox3
+            // ResultattextBox
             // 
-            this.textBox3.Location = new System.Drawing.Point(464, 159);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(100, 22);
-            this.textBox3.TabIndex = 2;
+            this.ResultattextBox.Location = new System.Drawing.Point(464, 159);
+            this.ResultattextBox.Name = "ResultattextBox";
+            this.ResultattextBox.Size = new System.Drawing.Size(100, 22);
+            this.ResultattextBox.TabIndex = 2;
             // 
-            // textBox4
+            // Operacio
             // 
-            this.textBox4.Location = new System.Drawing.Point(331, 243);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(29, 22);
-            this.textBox4.TabIndex = 3;
+            this.Operacio.Location = new System.Drawing.Point(331, 243);
+            this.Operacio.Name = "Operacio";
+            this.Operacio.Size = new System.Drawing.Size(29, 22);
+            this.Operacio.TabIndex = 3;
             // 
             // button1
             // 
@@ -76,37 +76,38 @@
             this.button1.TabIndex = 4;
             this.button1.Text = "Sum";
             this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.button1.Click += new System.EventHandler(this.Sum_Click);
             // 
-            // button2
+            // Subs
             // 
-            this.button2.Location = new System.Drawing.Point(307, 159);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 23);
-            this.button2.TabIndex = 5;
-            this.button2.Text = "Substract";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
+            this.Subs.Location = new System.Drawing.Point(307, 159);
+            this.Subs.Name = "Subs";
+            this.Subs.Size = new System.Drawing.Size(75, 23);
+            this.Subs.TabIndex = 5;
+            this.Subs.Text = "Substract";
+            this.Subs.UseVisualStyleBackColor = true;
+            this.Subs.Click += new System.EventHandler(this.Subs_Click);
             // 
-            // button3
+            // Calcul
             // 
-            this.button3.Location = new System.Drawing.Point(181, 243);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(75, 23);
-            this.button3.TabIndex = 6;
-            this.button3.Text = "Calcula";
-            this.button3.UseVisualStyleBackColor = true;
-            this.button3.Click += new System.EventHandler(this.button3_Click);
+            this.Calcul.Location = new System.Drawing.Point(181, 243);
+            this.Calcul.Name = "Calcul";
+            this.Calcul.Size = new System.Drawing.Size(75, 23);
+            this.Calcul.TabIndex = 6;
+            this.Calcul.Text = "Calculate";
+            this.Calcul.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
+            this.Calcul.UseVisualStyleBackColor = true;
+            this.Calcul.Click += new System.EventHandler(this.Calul_Click);
             // 
-            // button4
+            // Resetbutton
             // 
-            this.button4.Location = new System.Drawing.Point(423, 243);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(75, 23);
-            this.button4.TabIndex = 7;
-            this.button4.Text = "Reset";
-            this.button4.UseVisualStyleBackColor = true;
-            this.button4.Click += new System.EventHandler(this.button4_Click);
+            this.Resetbutton.Location = new System.Drawing.Point(423, 243);
+            this.Resetbutton.Name = "Resetbutton";
+            this.Resetbutton.Size = new System.Drawing.Size(75, 23);
+            this.Resetbutton.TabIndex = 7;
+            this.Resetbutton.Text = "Reset";
+            this.Resetbutton.UseVisualStyleBackColor = true;
+            this.Resetbutton.Click += new System.EventHandler(this.Reset_Click);
             // 
             // label1
             // 
@@ -133,14 +134,14 @@
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.button4);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
+            this.Controls.Add(this.Resetbutton);
+            this.Controls.Add(this.Calcul);
+            this.Controls.Add(this.Subs);
             this.Controls.Add(this.button1);
-            this.Controls.Add(this.textBox4);
-            this.Controls.Add(this.textBox3);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.Operacio);
+            this.Controls.Add(this.ResultattextBox);
+            this.Controls.Add(this.SegontextBox);
+            this.Controls.Add(this.PrimertextBox);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
@@ -150,14 +151,14 @@
 
         #endregion
 
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.TextBox textBox4;
+        private System.Windows.Forms.TextBox PrimertextBox;
+        private System.Windows.Forms.TextBox SegontextBox;
+        private System.Windows.Forms.TextBox ResultattextBox;
+        private System.Windows.Forms.TextBox Operacio;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Button Subs;
+        private System.Windows.Forms.Button Calcul;
+        private System.Windows.Forms.Button Resetbutton;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
     }

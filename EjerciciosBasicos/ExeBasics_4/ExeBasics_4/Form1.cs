@@ -17,40 +17,41 @@ namespace ExeBasics_4
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void Calul_Click(object sender, EventArgs e)
         {
-            textBox4.Text = "+";
-        }
+            int un = Int32.Parse(PrimertextBox.Text);
+            int dos = Int32.Parse(SegontextBox.Text);
 
-        private void button2_Click(object sender, EventArgs e)
-        {
-            textBox4.Text = "-";
-        }
-
-        private void button3_Click(object sender, EventArgs e)
-        {
-            int un = Int32.Parse(textBox1.Text);
-            int dos = Int32.Parse(textBox2.Text);
-
-            if (textBox4.Text == "+")
+            if (Operacio.Text == "+")
             {
                 int resulp = un + dos;
 
-                textBox3.Text = resulp.ToString();
-            } else
+                ResultattextBox.Text = resulp.ToString();
+            }
+            else
             {
                 int resuln = un - dos;
 
-                textBox3.Text = resuln.ToString();
+                ResultattextBox.Text = resuln.ToString();
             }
         }
 
-        private void button4_Click(object sender, EventArgs e)
+        private void Reset_Click(object sender, EventArgs e)
         {
-            textBox1.Text = "0";
-            textBox2.Text = "0";
-            textBox3.Text = "0";
-            textBox4.Text = " ";
+            PrimertextBox.Text = "0";
+            SegontextBox.Text = "0";
+            ResultattextBox.Text = "0";
+            Operacio.Text = " ";
+        }
+
+        private void Sum_Click(object sender, EventArgs e)
+        {
+            Operacio.Text = "+";
+        }
+
+        private void Subs_Click(object sender, EventArgs e)
+        {
+            Operacio.Text = "-";
         }
     }
 }

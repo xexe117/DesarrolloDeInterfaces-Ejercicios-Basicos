@@ -40,20 +40,20 @@ namespace ExeBasic_3
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void SumButt_Click(object sender, EventArgs e)
         {
-            int un = Int32.Parse(textBox1.Text);
-            int dos = Int32.Parse(textBox2.Text);
+            int un = Int32.Parse(OpBox1.Text);
+            int dos = Int32.Parse(OpBox2.Text);
             int resul = un + dos;
 
-            textBox3.Text = resul.ToString();
+            OpBox3.Text = resul.ToString();
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void ResButt2_Click(object sender, EventArgs e)
         {
-            textBox1.Text = "0";
-            textBox2.Text = "0";
-            textBox3.Text = "0";
+            OpBox1.Text = "0";
+            OpBox2.Text = "0";
+            OpBox3.Text = "0";
         }
     }
 }
